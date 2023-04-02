@@ -2,9 +2,6 @@
 
 I'm **Jeovania** (or Jeo) and I work as a front-end engineer for as long as I can remember. Love the web, but I flirt with mobile from time to time. 😏 📱
 
-- 🏢  Working at [iFood](https://ifood.com.br)
-
-- 😄  Pronouns: She/Her
 
 - 🌱  I’m currently learning more about accessibility and how to help all people have access to this wonderful, and sometimes scary, place called the internet.
 
